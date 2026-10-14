@@ -1,0 +1,10 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # Serve Laravel from the public directory
+    RewriteRule ^storage/(.*)$ public/storage/$1 [L]
+    RewriteRule ^$ public/ [L]
+    RewriteRule ^((?!public/).*)$ public/$1 [L]
+</IfModule>
+
+Options -Indexes
