@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio Laravel Professionnel
 
 Portfolio personnel moderne, multilingue et administrable construit avec Laravel, Bootstrap et Blade.
@@ -110,3 +111,7 @@ Pour un hébergement PHP Laravel classique :
 ## État du projet
 
 Cette base couvre la structure fonctionnelle du portfolio, l’authentification et le site public/admin. Elle peut être enrichie progressivement par CRUD successifs pour chaque section du cahier des charges.
+=======
+# Portfolio
+pour mon portfolio
+>>>>>>> 4e1e5055ed4b2ef065deb3a547de9f995257d7fd
